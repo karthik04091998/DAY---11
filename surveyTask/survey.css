@@ -1,0 +1,41 @@
+.FLname{
+    display: grid;
+    grid-template-columns: 30% 30% ;
+}
+.smallfirst{
+    font-size:12px;
+}
+.smalllast{
+    font-size:12px;
+}
+.name{
+    font-weight: bold;
+}
+.email{
+    font-weight: bold;   
+}
+#Email{
+    width: 60%;
+    
+}
+.red{
+    color:red;
+}
+.overall{
+    font-size: 12px;
+}
+#second , #fourth, #fifth, #seventh{
+    background-color: gainsboro;
+}
+
+.table{
+    width:  100%;
+    border-collapse: collapse;
+}  
+    
+.none{
+    text-align: center;
+}
+.material-symbols-outlined{
+    color: rgb(255, 162, 0);
+}
